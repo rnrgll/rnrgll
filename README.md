@@ -4,7 +4,7 @@
 
 <h3 align="center">Portfolio</h3>
 <div align="center">
-  <a href="https://shuajjjjj.notion.site/Hi-I-m-Do-Hyeon-Lee-93274d38287542e4bbc00608d70bb6e5?pvs=4">
+  <a href="https://rnrgll.notion.site/Hi-I-m-Do-Hyeon-Lee-93274d38287542e4bbc00608d70bb6e5?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=#FFFFFF">
   </a>
 </div>
