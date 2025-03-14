@@ -27,6 +27,7 @@
 <h3 align="center">Studying</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/-C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
 </div>
 
