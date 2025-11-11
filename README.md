@@ -4,7 +4,7 @@
 
 <h3 align="center">Portfolio</h3>
 <div align="center">
-  <a href="https://www.notion.so/rnrgll/287ee42b9d488075a3d2d874e995c0ae">
+  <a href="https://rnrgll.notion.site/287ee42b9d488075a3d2d874e995c0ae?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=#FFFFFF">
   </a>
 </div>
